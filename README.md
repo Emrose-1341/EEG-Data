@@ -1,6 +1,6 @@
 # EEG-Data
 
-This repository contains EEG (electroencephalography) data analysis code and raw data for various cognitive tasks and resting state recordings. This project was completed for class.
+This repository contains EEG (electroencephalography) data analysis code and raw data for various cognitive tasks and resting state recordings. 
 
 ## Repository Structure
 
@@ -21,7 +21,7 @@ The `Task-Analysis` branch contains comprehensive analysis notebooks for various
 - **`Org_data_&_visualize.ipynb`**: Data organization and visualization utilities
 - **`Working_Memory_Data_Analysis.ipynb`**: Analysis of working memory task EEG data
 - **`Lexcial_ERP.ipynb`**: Event-related potential (ERP) analysis for lexical tasks
-- **`MW_ERP.ipynb`**: Mind-wandering ERP analysis
+- **`MW_ERP.ipynb`**: Working Memory ERP analysis
 - **`Sleep_Data.ipynb`**: Sleep stage analysis from EEG recordings
 - **`FallPrac.ipynb`**: Fall practice task analysis
 - **`FallStopSig.ipynb`**: Stop signal task analysis
